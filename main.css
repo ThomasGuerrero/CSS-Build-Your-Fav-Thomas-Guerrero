@@ -2,8 +2,13 @@
    list-style: none;
 }
 
+.logo {
+    width: 10%;
+    size-adjust: 40%;
+}
+
 .main-img {
-    z-index: 0;
+    width: 100%;
     
 }
  footer {
