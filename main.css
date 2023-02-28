@@ -1,9 +1,26 @@
 .decoration {
+<<<<<<< HEAD
     list-style: none;
  }
  
  .logo {
      width: 130px;
+=======
+   list-style: none;
+}
+
+.logo {
+    width: 10%;
+    size-adjust: 40%;
+}
+
+.main-img {
+    width: 100%;
+    
+}
+ footer {
+    text-align: center;
+>>>>>>> dc55cf385ba29592c8abe83ac221140e25f8f7be
  }
 
 
